@@ -12,6 +12,13 @@ const hikakin = {
   },
 }
 
+const me = {
+  name: "kenta",
+  age: 20,
+  hobbies: ["game", "music"],
+  isHappy: true,
+}
+
 // TRY: 練習問題１
 // hikakin オブジェクト を真似して自分のプロフィールをオブジェクトで作ってください。
 // オブジェクトにはたくさんのプロパティを追加してください。
